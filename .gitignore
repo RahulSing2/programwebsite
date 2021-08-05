@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/programwebsite/programwebsite/bin/Debug/netcoreapp3.1
+/programwebsite/.vs/programwebsite/v16
+/programwebsite/programwebsite/obj/Debug/netcoreapp3.1
+/programwebsite/programwebsite/obj
